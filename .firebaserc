@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "bmo-001",
+    "staging": "bmo-001"
+  },
+  "targets": {},
+  "etags": {}
+}
